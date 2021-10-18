@@ -31,7 +31,7 @@ English | [简体中文](./README.md)
 
 ### Tools
 
-- [Electron Fiddle](https://www.electronjs.org/fiddle) - 最简单的 Electron 入门方式。
+- [Electron Fiddle](https://www.electronjs.org/fiddle) - The easiest way to get started with Electron.
 
 ## Repository
 
@@ -106,6 +106,10 @@ English | [简体中文](./README.md)
 ### Dev Tools
 
 - [devtron](https://github.com/electron/devtron) - Official DevTools extension. ![](https://img.shields.io/github/stars/electron/devtron.svg?style=social&label=Star)
+- [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron. ![](https://img.shields.io/github/stars/GPMDP/electron-devtools-installer.svg?style=social&label=Star)
+- [electron-reloader](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading for Electron apps during development. ![](https://img.shields.io/github/stars/sindresorhus/electron-reloader.svg?style=social&label=Star)
+- [elemon](https://github.com/manidlou/elemon) - Live-reload your app during development. ![](https://img.shields.io/github/stars/manidlou/elemon.svg?style=social&label=Star)
+- [electronmon](https://github.com/catdad/electronmon) - Run, watch, and restart electron apps using magic. ![](https://img.shields.io/github/stars/catdad/electronmon.svg?style=social&label=Star)
 
 ### Testing
 

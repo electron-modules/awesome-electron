@@ -31,7 +31,7 @@
 
 ### 工具
 
-- [Electron Fiddle](https://www.electronjs.org/fiddle) - The easiest way to get started with Electron.
+- [Electron Fiddle](https://www.electronjs.org/fiddle) - 最简单的 Electron 入门方式。
 
 ## GIT 仓库
 
@@ -107,6 +107,9 @@
 
 - [devtron](https://github.com/electron/devtron) - 官方开发工具插件。 ![](https://img.shields.io/github/stars/electron/devtron.svg?style=social&label=Star)
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - 从 Chrome 应用商城里安装 DevTools。 ![](https://img.shields.io/github/stars/GPMDP/electron-devtools-installer.svg?style=social&label=Star)
+- [electron-reloader](https://github.com/sindresorhus/electron-reloader) - 在开发过程中，自动重新加载。 ![](https://img.shields.io/github/stars/sindresorhus/electron-reloader.svg?style=social&label=Star)
+- [elemon](https://github.com/manidlou/elemon) - 开发过程中热更新。 ![](https://img.shields.io/github/stars/manidlou/elemon.svg?style=social&label=Star)
+- [electronmon](https://github.com/catdad/electronmon) - 运行，监控并重启应用。 ![](https://img.shields.io/github/stars/catdad/electronmon.svg?style=social&label=Star)
 
 ### 测试
 
