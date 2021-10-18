@@ -4,10 +4,13 @@
 
 - [目录](#目录)
 - [官方资源](#官方资源)
+- [资源](#资源)
+  - [工具](#工具)
 - [GIT 仓库](#git-仓库)
   - [进程间通信(IPC)](#进程间通信ipc)
   - [检测/判断](#检测判断)
   - [位置/尺寸](#位置尺寸)
+  - [窗口相关](#窗口相关)
   - [界面相关](#界面相关)
   - [持久化](#持久化)
   - [数据库](#数据库)
@@ -23,6 +26,12 @@
 - [官网](https://www.electronjs.org)
 - [文档](https://www.electronjs.org/zh/docs/latest/)
 - [仓库](https://github.com/electron/electron) ![](https://img.shields.io/github/stars/electron/electron.svg?style=social&label=Star)
+
+## 资源
+
+### 工具
+
+- [Electron Fiddle](https://www.electronjs.org/fiddle) - The easiest way to get started with Electron.
 
 ## GIT 仓库
 
@@ -44,6 +53,11 @@
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - 将窗口放置在常见位置。 ![](https://img.shields.io/github/stars/jenslind/electron-positioner.svg?style=social&label=Star)
 - [electron-drag](https://github.com/kapetan/electron-drag) - 提升窗口拖拽体验。 ![](https://img.shields.io/github/stars/kapetan/electron-drag.svg?style=social&label=Star)
 - [electron-window-state](https://github.com/mawie81/electron-window-state) - 存储窗口尺寸和位置。 ![](https://img.shields.io/github/stars/mawie81/electron-window-state.svg?style=social&label=Star)
+
+### 窗口相关
+
+- [electron-window](https://github.com/jprichardson/electron-window) - Electron 窗口管理的便捷方法。 ![](https://img.shields.io/github/stars/jprichardson/electron-window.svg?style=social&label=Star)
+- [electron-windows](https://github.com/electron-modules/electron-windows) - 优雅地管理多窗口并提供强大的功能。 ![](https://img.shields.io/github/stars/electron-modules/electron-windows.svg?style=social&label=Star)
 
 ### 界面相关
 
@@ -92,7 +106,9 @@
 ### 开发工具
 
 - [devtron](https://github.com/electron/devtron) - 官方开发工具插件。 ![](https://img.shields.io/github/stars/electron/devtron.svg?style=social&label=Star)
+- [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - 从 Chrome 应用商城里安装 DevTools。 ![](https://img.shields.io/github/stars/GPMDP/electron-devtools-installer.svg?style=social&label=Star)
 
 ### 测试
 
-- [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在 Electron 中运行 Mocha 测试用例。
+- [spectron](https://github.com/electron-userland/spectron) - 使用 ChromeDriver 测试 Electron 应用。 ![](https://img.shields.io/github/stars/electron-userland/spectron.svg?style=social&label=Star)
+- [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在 Electron 中运行 Mocha 测试用例。 ![](https://img.shields.io/github/stars/jprichardson/electron-mocha.svg?style=social&label=Star)

@@ -4,10 +4,13 @@ English | [简体中文](./README.md)
 
 - [Table of contents](#table-of-contents)
 - [Official](#official)
+- [Resources](#resources)
+  - [Tools](#tools)
 - [Repository](#repository)
   - [IPC](#ipc)
   - [Check/Detect](#checkdetect)
   - [Position/Size](#positionsize)
+  - [Window](#window)
   - [UI](#ui)
   - [Persistent](#persistent)
   - [Database](#database)
@@ -23,6 +26,12 @@ English | [简体中文](./README.md)
 - [Website](https://www.electronjs.org)
 - [Documentation](https://www.electronjs.org/zh/docs/latest/)
 - [Repository](https://github.com/electron/electron) ![](https://img.shields.io/github/stars/electron/electron.svg?style=social&label=Star)
+
+## Resources
+
+### Tools
+
+- [Electron Fiddle](https://www.electronjs.org/fiddle) - 最简单的 Electron 入门方式。
 
 ## Repository
 
@@ -44,6 +53,11 @@ English | [简体中文](./README.md)
 - [electron-positioner](https://github.com/jenslind/electron-positioner) - Position windows at common spots. ![](https://img.shields.io/github/stars/jenslind/electron-positioner.svg?style=social&label=Star)
 - [electron-drag](https://github.com/kapetan/electron-drag) - Improved window dragging. ![](https://img.shields.io/github/stars/kapetan/electron-drag.svg?style=social&label=Star)
 - [electron-window-state](https://github.com/mawie81/electron-window-state) - Persist window sizes and positions. ![](https://img.shields.io/github/stars/mawie81/electron-window-state.svg?style=social&label=Star)
+
+### Window
+
+- [electron-window](https://github.com/jprichardson/electron-window) - Convenience methods for Electron windows. ![](https://img.shields.io/github/stars/jprichardson/electron-window.svg?style=social&label=Star)
+- [electron-windows](https://github.com/electron-modules/electron-windows) - Manage multiple windows of Electron gracefully and provides powerful features. ![](https://img.shields.io/github/stars/electron-modules/electron-windows.svg?style=social&label=Star)
 
 ### UI
 
@@ -95,4 +109,5 @@ English | [简体中文](./README.md)
 
 ### Testing
 
+- [spectron](https://github.com/electron-userland/spectron) - Test Electron apps using ChromeDriver.  ![](https://img.shields.io/github/stars/electron-userland/spectron.svg?style=social&label=Star)
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron. ![](https://img.shields.io/github/stars/jprichardson/electron-mocha.svg?style=social&label=Star)
