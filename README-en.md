@@ -6,7 +6,7 @@ English | [简体中文](./README.md)
 - [Official](#official)
 - [Resources](#resources)
   - [Tools](#tools)
-- [Repository](#repository)
+- [Library](#library)
   - [IPC](#ipc)
   - [Check/Detect](#checkdetect)
   - [Position/Size](#positionsize)
@@ -20,6 +20,23 @@ English | [简体中文](./README.md)
   - [Debug](#debug)
   - [Dev Tools](#dev-tools)
   - [Testing](#testing)
+- [Application](#application)
+  - [IDE](#ide)
+  - [Markdown](#markdown)
+  - [Browser](#browser)
+  - [Git](#git)
+  - [Database Client](#database-client)
+  - [Terminal](#terminal)
+  - [Image](#image)
+  - [Video/Music](#videomusic)
+  - [Screen Recorder/Sharing](#screen-recordersharing)
+  - [Password](#password)
+  - [Messenger](#messenger)
+  - [Email](#email)
+  - [Docker](#docker)
+  - [Hardware stats](#hardware-stats)
+  - [HTTP](#http)
+- [Related](#related)
 
 ## Official
 
@@ -33,7 +50,7 @@ English | [简体中文](./README.md)
 
 - [Electron Fiddle](https://www.electronjs.org/fiddle) - The easiest way to get started with Electron.
 
-## Repository
+## Library
 
 ### IPC
 
@@ -61,8 +78,10 @@ English | [简体中文](./README.md)
 
 ### UI
 
+- [menubar](https://github.com/maxogden/menubar) - Menubar app framework. ![](https://img.shields.io/github/stars/maxogden/menubar.svg?style=social&label=Star)
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu. ![](https://img.shields.io/github/stars/sindresorhus/electron-context-menu.svg?style=social&label=Star)
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - Add vibrancy (blur) to windows. ![](https://img.shields.io/github/stars/arkenthera/electron-vibrancy.svg?style=social&label=Star)
+- [electron-input-menu](https://github.com/parro-it/electron-input-menu) - Context menu for input elements. ![](https://img.shields.io/github/stars/parro-it/electron-input-menu.svg?style=social&label=Star)
 - [electron-create-menu](https://github.com/kilian/electron-create-menu) - Default menus for all platforms, easily extendable, and with i18n support. ![](https://img.shields.io/github/stars/kilian/electron-create-menu.svg?style=social&label=Star)
 
 ### Persistent
@@ -115,3 +134,126 @@ English | [简体中文](./README.md)
 
 - [spectron](https://github.com/electron-userland/spectron) - Test Electron apps using ChromeDriver.  ![](https://img.shields.io/github/stars/electron-userland/spectron.svg?style=social&label=Star)
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron. ![](https://img.shields.io/github/stars/jprichardson/electron-mocha.svg?style=social&label=Star)
+- [jest-electron](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment. ![](https://img.shields.io/github/stars/hustcc/jest-electron.svg?style=social&label=Star)
+
+## Application
+
+### IDE
+
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE. ![](https://img.shields.io/github/stars/Microsoft/vscode.svg?style=social&label=Star)
+- [Atom](https://github.com/atom/atom) - Code editor. ![](https://img.shields.io/github/stars/atom/atom.svg?style=social&label=Star)
+- [Light Table](https://github.com/LightTable/LightTable) - Code editor with instant feedback. ![](https://img.shields.io/github/stars/LightTable/LightTable.svg?style=social&label=Star)
+- [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor. ![](https://img.shields.io/github/stars/Graviton-Code-Editor/Graviton-App.svg?style=social&label=Star)
+
+### Markdown
+
+- [Mark Text](https://github.com/marktext/marktext) - Real-time preview Markdown editor. ![](https://img.shields.io/github/stars/marktext/marktext.svg?style=social&label=Star)
+- [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking. ![](https://img.shields.io/github/stars/fabiospampinato/notable.svg?style=social&label=Star)
+- [Boostnote](https://github.com/BoostIO/BoostNote-App) - Markdown note & code snippet app for developers. Older Version: ![](https://img.shields.io/github/stars/BoostIO/Boostnote.svg?style=social&label=Star) Latest: ![](https://img.shields.io/github/stars/BoostIO/BoostNote-App.svg?style=social&label=Star)
+- [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview. ![](https://img.shields.io/github/stars/brrd/Abricotine.svg?style=social&label=Star)
+- [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files. ![](https://img.shields.io/github/stars/yoshuawuyts/vmd.svg?style=social&label=Star)
+- [MarkRight](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview. ![](https://img.shields.io/github/stars/dvcrn/markright.svg?style=social&label=Star)
+- [Shiba](https://github.com/rhysd/Shiba) - Live Markdown preview with linting. ![](https://img.shields.io/github/stars/rhysd/Shiba.svg?style=social&label=Star)
+- [Marky](https://github.com/vesparny/marky) - Markdown editor. ![](https://img.shields.io/github/stars/vesparny/marky.svg?style=social&label=Star)
+- [Proton](https://github.com/steventhanna/proton) - Markdown editor with live preview. ![](https://img.shields.io/github/stars/steventhanna/proton.svg?style=social&label=Star)
+- [Markn](https://github.com/minodisk/markn) - Lightweight Markdown viewer. ![](https://img.shields.io/github/stars/minodisk/markn.svg?style=social&label=Star)
+
+### Browser
+
+- [Beaker](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols. ![](https://img.shields.io/github/stars/beakerbrowser/beaker.svg?style=social&label=Star)
+- [Min](https://github.com/minbrowser/min) - Minimal web browser. ![](https://img.shields.io/github/stars/minbrowser/min.svg?style=social&label=Star)
+- [Wexond](https://github.com/sential/wexond) - Modern and feature-rich web browser base based on Electron. ![](https://img.shields.io/github/stars/sential/wexond.svg?style=social&label=Star)
+
+### Git
+
+- [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub. ![](https://img.shields.io/github/stars/jlord/git-it-electron.svg?style=social&label=Star)
+- [Gitify](https://github.com/manosim/gitify) - GitHub notifications in your menubar. ![](https://img.shields.io/github/stars/manosim/gitify.svg?style=social&label=Star)
+- [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos. ![](https://img.shields.io/github/stars/Nekle/greader.svg?style=social&label=Star)
+
+### Database Client
+
+- [Medis](https://github.com/luin/medis) - Redis database management. ![](https://img.shields.io/github/stars/luin/medis.svg?style=social&label=Star)
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Cross-platform SQL editor and database manager. ![](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio.svg?style=social&label=Star)
+- [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL client. ![](https://img.shields.io/github/stars/sqlectron/sqlectron-gui.svg?style=social&label=Star)
+- [Mongotron](https://github.com/officert/mongotron) - MongoDB management tool. ![](https://img.shields.io/github/stars/officert/mongotron.svg?style=social&label=Star)
+- [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client. ![](https://img.shields.io/github/stars/web-pal/DBGlass.svg?style=social&label=Star)
+- [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management. ![](https://img.shields.io/github/stars/hij1nx/levelui.svg?style=social&label=Star)
+- [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet client. ![](https://img.shields.io/github/stars/sidneys/pb-for-desktop.svg?style=social&label=Star)
+
+### Terminal
+
+- [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. ![](https://img.shields.io/github/stars/zeit/hyper.svg?style=social&label=Star)
+- [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. ![](https://img.shields.io/github/stars/sedwards2009/extraterm.svg?style=social&label=Star)
+
+### Image
+
+- [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer. ![](https://img.shields.io/github/stars/sachinchoolur/lightgallery-desktop.svg?style=social&label=Star)
+- [Imagemin](https://github.com/imagemin/imagemin-app) - Minify images. ![](https://img.shields.io/github/stars/imagemin/imagemin-app.svg?style=social&label=Star)
+- [ExifCleaner](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop. ![](https://img.shields.io/github/stars/szTheory/exifcleaner.svg?style=social&label=Star)
+- [Ansel](https://github.com/m0g/ansel) - Image organizer. ![](https://img.shields.io/github/stars/m0g/ansel.svg?style=social&label=Star)
+- [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background. ![](https://img.shields.io/github/stars/KYDronePilot/SpaceEye.svg?style=social&label=Star)
+
+### Video/Music
+
+- [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app. ![](https://img.shields.io/github/stars/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-.svg?style=social&label=Star)
+- [Nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you. ![](https://img.shields.io/github/stars/nukeop/nuclear.svg?style=social&label=Star)
+- [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar. ![](https://img.shields.io/github/stars/gillesdemey/Cumulus.svg?style=social&label=Star)
+- [Museeks](https://github.com/KeitIG/museeks) - Music player. ![](https://img.shields.io/github/stars/KeitIG/museeks.svg?style=social&label=Star)
+- [Kaku](https://github.com/EragonJ/Kaku) - Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux. ![](https://img.shields.io/github/stars/EragonJ/Kaku.svg?style=social&label=Star)
+- [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player. ![](https://img.shields.io/github/stars/Zhangdroid/Gokotta.svg?style=social&label=Star)
+- [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos. ![](https://img.shields.io/github/stars/whoisandie/yoda.svg?style=social&label=Star)
+- [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player. ![](https://img.shields.io/github/stars/xwartz/PupaFM.svg?style=social&label=Star)
+- [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app. ![](https://img.shields.io/github/stars/twolfson/google-music-electron.svg?style=social&label=Star)
+- [VOX](https://github.com/fresk-nc/VOX) - Unofficial VOX music player. ![](https://img.shields.io/github/stars/fresk-nc/VOX.svg?style=social&label=Star)
+- [Toby](https://github.com/frankhale/toby) - YouTube player. ![](https://img.shields.io/github/stars/frankhale/toby.svg?style=social&label=Star)
+- [Kyoku](https://github.com/cheeaun/kyoku) - Displays current iTunes song. ![](https://img.shields.io/github/stars/cheeaun/kyoku.svg?style=social&label=Star)
+- [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar. ![](https://img.shields.io/github/stars/Bahlaouane-Hamza/Yays.svg?style=social&label=Star)
+- [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar. ![](https://img.shields.io/github/stars/makotot/Tubehead.svg?style=social&label=Star)
+
+### Screen Recorder/Sharing
+
+- [Kap](https://github.com/wulkano/kap) - Screen recorder with GIF support. ![](https://img.shields.io/github/stars/wulkano/kap.svg?style=social&label=Star)
+- [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration. ![](https://img.shields.io/github/stars/maxogden/screencat.svg?style=social&label=Star)
+- [Snapper](https://github.com/pt2121/Snapper) - Screen capturing & recording for Android devices. ![](https://img.shields.io/github/stars/pt2121/Snapper.svg?style=social&label=Star)
+
+### Password
+
+- [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Password manager. ![](https://img.shields.io/github/stars/buttercup/buttercup-desktop.svg?style=social&label=Star)
+- [Swifty](https://github.com/swiftyapp/swifty) - Password manager. ![](https://img.shields.io/github/stars/swiftyapp/swifty.svg?style=social&label=Star)
+- [Hawkpass](https://github.com/kalpetros/hawkpass) - Password generator. ![](https://img.shields.io/github/stars/kalpetros/hawkpass.svg?style=social&label=Star)
+
+### Messenger
+
+- [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app. ![](https://img.shields.io/github/stars/geeeeeeeeek/electronic-wechat.svg?style=social&label=Star)
+- [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app. ![](https://img.shields.io/github/stars/sindresorhus/caprine.svg?style=social&label=Star)
+- [Franz](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app. ![](https://img.shields.io/github/stars/meetfranz/franz.svg?style=social&label=Star)
+- [Friends](https://github.com/moose-team/friends) - P2P chat. ![](https://img.shields.io/github/stars/moose-team/friends.svg?style=social&label=Star)
+- [Wire](https://github.com/wireapp/wire-desktop) - Messenger and calling app. ![](https://img.shields.io/github/stars/wireapp/wire-desktop.svg?style=social&label=Star)
+
+### Email
+
+- [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail) ![](https://img.shields.io/github/stars/Foundry376/Mailspring.svg?style=social&label=Star)
+- [Rambox](https://github.com/saenzramiro/rambox) - Chat and email app that combines multiple services like Discord, Hangouts, Gmail and Outlook. ![](https://img.shields.io/github/stars/saenzramiro/rambox.svg?style=social&label=Star)
+- [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app. ![](https://img.shields.io/github/stars/Thomas101/wmail.svg?style=social&label=Star)
+- [Gmail Desktop](https://github.com/timche/gmail-desktop) - Unofficial Gmail app. ![](https://img.shields.io/github/stars/timche/gmail-desktop.svg?style=social&label=Star)
+- [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app. ![](https://img.shields.io/github/stars/protonmail-desktop/application.svg?style=social&label=Star)
+
+### Docker
+
+- [Kitematic](https://github.com/docker/kitematic) - Docker container management. ![](https://img.shields.io/github/stars/docker/kitematic.svg?style=social&label=Star)
+- [Eintopf](https://github.com/mazehall/eintopf) - Manage development projects with Docker. ![](https://img.shields.io/github/stars/mazehall/eintopf.svg?style=social&label=Star)
+- [docker-indicator](https://github.com/khornberg/docker-indicator) - Unofficial Docker menubar app. ![](https://img.shields.io/github/stars/khornberg/docker-indicator.svg?style=social&label=Star)
+
+### Hardware stats
+
+- [SpaceRadar](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization. ![](https://img.shields.io/github/stars/zz85/space-radar.svg?style=social&label=Star)
+- [iStats](https://github.com/ningt/iStats) - CPU and memory stats on your menubar. ![](https://img.shields.io/github/stars/ningt/iStats.svg?style=social&label=Star)
+
+### HTTP
+
+- [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests. ![](https://img.shields.io/github/stars/getinsomnia/insomnia.svg?style=social&label=Star)
+- [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests. ![](https://img.shields.io/github/stars/uxebu/james.svg?style=social&label=Star)
+
+## Related
+
+- [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs) ![](https://img.shields.io/github/stars/huaize2020/awesome-nodejs.svg?style=social&label=Star)
