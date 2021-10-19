@@ -21,7 +21,7 @@ English | [简体中文](./README.md)
   - [Debug](#debug)
   - [Dev Tools](#dev-tools)
   - [Testing](#testing)
-- [Application](#application)
+- [Apps](#apps)
   - [IDE](#ide)
   - [Markdown](#markdown)
   - [Notepad](#notepad)
@@ -38,6 +38,7 @@ English | [简体中文](./README.md)
   - [Docker](#docker)
   - [Hardware stats](#hardware-stats)
   - [HTTP](#http)
+  - [Download](#download)
   - [Efficient](#efficient)
   - [App Launcher](#app-launcher)
   - [Unofficial Apps](#unofficial-apps)
@@ -48,6 +49,7 @@ English | [简体中文](./README.md)
 - [Website](https://www.electronjs.org)
 - [Documentation](https://www.electronjs.org/zh/docs/latest/)
 - [Repository](https://github.com/electron/electron) ![](https://img.shields.io/github/stars/electron/electron.svg?style=social&label=Star)
+- [Apps](https://www.electronjs.org/apps) - A collection of apps built on Electron.
 
 ## Resources
 
@@ -58,6 +60,7 @@ English | [简体中文](./README.md)
 ## Boilerplates
 
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack. ![](https://img.shields.io/github/stars/chentsulin/electron-react-boilerplate.svg?style=social&label=Star)
+- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack. ![](https://img.shields.io/github/stars/SimulatedGREG/electron-vue.svg?style=social&label=Star)
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app. ![](https://img.shields.io/github/stars/electron/electron-quick-start.svg?style=social&label=Star)
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload. ![](https://img.shields.io/github/stars/maximegris/angular-electron.svg?style=social&label=Star)
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers. ![](https://img.shields.io/github/stars/szwacz/electron-boilerplate.svg?style=social&label=Star)
@@ -80,6 +83,7 @@ English | [简体中文](./README.md)
 
 - [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development. ![](https://img.shields.io/github/stars/sindresorhus/electron-is-dev.svg?style=social&label=Star)
 - [electron-is](https://github.com/delvedor/electron-is) - An 'is' utility for Electron which provides a set of handy functions, with a self-descriptive name. ![](https://img.shields.io/github/stars/delvedor/electron-is.svg?style=social&label=Star)
+- [is-electron](https://github.com/cheton/is-electron) - Detect if running in Electron. ![](https://img.shields.io/github/stars/cheton/is-electron.svg?style=social&label=Star)
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`. ![](https://img.shields.io/github/stars/jprichardson/is-electron-renderer.svg?style=social&label=Star)
 - [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid Electron accelerator. ![](https://img.shields.io/github/stars/brrd/electron-is-accelerator.svg?style=social&label=Star)
 
@@ -154,7 +158,7 @@ English | [简体中文](./README.md)
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron. ![](https://img.shields.io/github/stars/jprichardson/electron-mocha.svg?style=social&label=Star)
 - [jest-electron](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment. ![](https://img.shields.io/github/stars/hustcc/jest-electron.svg?style=social&label=Star)
 
-## Application
+## Apps
 
 ### IDE
 
@@ -171,6 +175,7 @@ English | [简体中文](./README.md)
 - [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview. ![](https://img.shields.io/github/stars/brrd/Abricotine.svg?style=social&label=Star)
 - [Vmd](https://github.com/yoshuawuyts/vmd) - Preview Markdown files. ![](https://img.shields.io/github/stars/yoshuawuyts/vmd.svg?style=social&label=Star)
 - [MarkRight](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview. ![](https://img.shields.io/github/stars/dvcrn/markright.svg?style=social&label=Star)
+- [electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - A minimal Markdown editor desktop app. ![](https://img.shields.io/github/stars/amitmerchant1990/electron-markdownify.svg?style=social&label=Star)
 - [Shiba](https://github.com/rhysd/Shiba) - Live Markdown preview with linting. ![](https://img.shields.io/github/stars/rhysd/Shiba.svg?style=social&label=Star)
 - [Marky](https://github.com/vesparny/marky) - Markdown editor. ![](https://img.shields.io/github/stars/vesparny/marky.svg?style=social&label=Star)
 - [Proton](https://github.com/steventhanna/proton) - Markdown editor with live preview. ![](https://img.shields.io/github/stars/steventhanna/proton.svg?style=social&label=Star)
@@ -211,6 +216,7 @@ English | [简体中文](./README.md)
 ### Terminal
 
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. ![](https://img.shields.io/github/stars/zeit/hyper.svg?style=social&label=Star)
+- [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. ![](https://img.shields.io/github/stars/GitSquared/edex-ui.svg?style=social&label=Star)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. ![](https://img.shields.io/github/stars/sedwards2009/extraterm.svg?style=social&label=Star)
 
 ### Image
@@ -261,6 +267,7 @@ English | [简体中文](./README.md)
 
 ### Email
 
+- [nylas-mail](https://github.com/nylas/nylas-mail) - Nylas Mail was an open-source mail client built on the modern web with Electron, React, and Flux. It was designed to be easy to extend. ![](https://img.shields.io/github/stars/nylas/nylas-mail.svg?style=social&label=Star)
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail) ![](https://img.shields.io/github/stars/Foundry376/Mailspring.svg?style=social&label=Star)
 - [Rambox](https://github.com/saenzramiro/rambox) - Chat and email app that combines multiple services like Discord, Hangouts, Gmail and Outlook. ![](https://img.shields.io/github/stars/saenzramiro/rambox.svg?style=social&label=Star)
 - [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app. ![](https://img.shields.io/github/stars/Thomas101/wmail.svg?style=social&label=Star)
@@ -282,6 +289,12 @@ English | [简体中文](./README.md)
 
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests. ![](https://img.shields.io/github/stars/getinsomnia/insomnia.svg?style=social&label=Star)
 - [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests. ![](https://img.shields.io/github/stars/uxebu/james.svg?style=social&label=Star)
+
+### Download
+
+- [Motrix](https://github.com/agalwood/Motrix) - Download manager. ![](https://img.shields.io/github/stars/agalwood/Motrix.svg?style=social&label=Star)
+- [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client. ![](https://img.shields.io/github/stars/feross/webtorrent-app.svg?style=social&label=Star)
+- [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent client. ![](https://img.shields.io/github/stars/LeeChSien/nuTorrent.svg?style=social&label=Star)
 
 ### Efficient
 

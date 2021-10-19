@@ -38,6 +38,7 @@
   - [Docker](#docker)
   - [硬件统计信息](#硬件统计信息)
   - [HTTP](#http)
+  - [下载](#下载)
   - [效率](#效率)
   - [应用启动器](#应用启动器)
   - [一些非官方的应用](#一些非官方的应用)
@@ -48,6 +49,7 @@
 - [官网](https://www.electronjs.org)
 - [文档](https://www.electronjs.org/zh/docs/latest/)
 - [仓库](https://github.com/electron/electron) ![](https://img.shields.io/github/stars/electron/electron.svg?style=social&label=Star)
+- [应用](https://www.electronjs.org/apps) - 使用 Electron 开发的应用集合。
 
 ## 资源
 
@@ -58,6 +60,7 @@
 ## 样板
 
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - 基于 React 和 Webpack 的样板。 ![](https://img.shields.io/github/stars/chentsulin/electron-react-boilerplate.svg?style=social&label=Star)
+- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - 一个 Electron 和 Vue.js 快速入门样板，带有 vue-cli 脚手架、常见的 Vue 插件、electron-packager/electron-builder、unit/e2e 测试、vue-devtools 和 webpack。 ![](https://img.shields.io/github/stars/SimulatedGREG/electron-vue.svg?style=social&label=Star)
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - 官方提供的快速开始。 ![](https://img.shields.io/github/stars/electron/electron-quick-start.svg?style=social&label=Star)
 - [angular-electron](https://github.com/maximegris/angular-electron) - 使用 Angular、Electron、TypeScript、SASS 和 Hot Reload 快速开始。 ![](https://img.shields.io/github/stars/maximegris/angular-electron.svg?style=social&label=Star)
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - 甚至生成安装程序的综合样板。 ![](https://img.shields.io/github/stars/szwacz/electron-boilerplate.svg?style=social&label=Star)
@@ -80,6 +83,7 @@
 
 - [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - 检查Electron是否允许在开发环境 ![](https://img.shields.io/github/stars/sindresorhus/electron-is-dev.svg?style=social&label=Star)
 - [electron-is](https://github.com/delvedor/electron-is) - Electron 的“is”工具，它提供了一组方便的函数。 ![](https://img.shields.io/github/stars/delvedor/electron-is.svg?style=social&label=Star)
+- [is-electron](https://github.com/cheton/is-electron) - 判断是否运行在 Electron中. ![](https://img.shields.io/github/stars/cheton/is-electron.svg?style=social&label=Star)
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - 检查你的代码是否运行在 `主进程` 或 `渲染进程`. ![](https://img.shields.io/github/stars/jprichardson/is-electron-renderer.svg?style=social&label=Star)
 - [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - 检查字符串是否是有效的 Electron 快捷键。![](https://img.shields.io/github/stars/brrd/electron-is-accelerator.svg?style=social&label=Star)
 
@@ -171,6 +175,7 @@
 - [Abricotine](https://github.com/brrd/Abricotine) - 带内部预览的 Markdown 编辑器。 ![](https://img.shields.io/github/stars/brrd/Abricotine.svg?style=social&label=Star)
 - [Vmd](https://github.com/yoshuawuyts/vmd) - 预览 Markdown 文件。 ![](https://img.shields.io/github/stars/yoshuawuyts/vmd.svg?style=social&label=Star)
 - [MarkRight](https://github.com/dvcrn/markright) - GitHub 风格的带有实时预览的 Markdown 编辑器。 ![](https://img.shields.io/github/stars/dvcrn/markright.svg?style=social&label=Star)
+- [electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - 小巧的 Markdown 编辑器。 ![](https://img.shields.io/github/stars/amitmerchant1990/electron-markdownify.svg?style=social&label=Star)
 - [Shiba](https://github.com/rhysd/Shiba) - 带有 linting 的实时 Markdown 预览。 ![](https://img.shields.io/github/stars/rhysd/Shiba.svg?style=social&label=Star)
 - [Marky](https://github.com/vesparny/marky) - Markdown 编辑器。 ![](https://img.shields.io/github/stars/vesparny/marky.svg?style=social&label=Star)
 - [Proton](https://github.com/steventhanna/proton) - 可实时预览的 Markdown 编辑器。 ![](https://img.shields.io/github/stars/steventhanna/proton.svg?style=social&label=Star)
@@ -211,6 +216,7 @@
 ### 命令终端
 
 - [Hyper](https://github.com/zeit/hyper) - 基于 Web 技术的命令终端。 ![](https://img.shields.io/github/stars/zeit/hyper.svg?style=social&label=Star)
+- [edex-ui](https://github.com/GitSquared/edex-ui) - 一个跨平台、可定制的科幻终端模拟器，具有高级监控和支持触摸屏。 ![](https://img.shields.io/github/stars/GitSquared/edex-ui.svg?style=social&label=Star)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - 终端模拟器的瑞士军用电锯。 ![](https://img.shields.io/github/stars/sedwards2009/extraterm.svg?style=social&label=Star)
 
 ### 图像
@@ -261,6 +267,7 @@
 
 ### Email
 
+- [nylas-mail](https://github.com/nylas/nylas-mail) - Nylas Mail 是一个开源邮件客户端，构建在现代网络上，使用 Electron、React 和 Flux。它被设计为易于扩展。 ![](https://img.shields.io/github/stars/Foundry376/Mailspring.svg?style=social&label=Star)
 - [Mailspring](https://github.com/Foundry376/Mailspring) - 可扩展的电子邮件客户端(Fork of Nylas Mail)。 ![](https://img.shields.io/github/stars/Foundry376/Mailspring.svg?style=social&label=Star)
 - [Rambox](https://github.com/saenzramiro/rambox) - 结合了 Discord、环聊、Gmail 和 Outlook 等多种服务的聊天和电子邮件。 ![](https://img.shields.io/github/stars/saenzramiro/rambox.svg?style=social&label=Star)
 - [Wmail](https://github.com/Thomas101/wmail) - 非官方 Gmail 和 Google Inbox 应用程序。 ![](https://img.shields.io/github/stars/Thomas101/wmail.svg?style=social&label=Star)
@@ -282,6 +289,12 @@
 
 - [Insomnia](https://github.com/getinsomnia/insomnia) - 创建和管理 HTTP 请求。 ![](https://img.shields.io/github/stars/getinsomnia/insomnia.svg?style=social&label=Star)
 - [James](https://github.com/uxebu/james) -  HTTP 代理，用于查看和拦截浏览器请求的。 ![](https://img.shields.io/github/stars/uxebu/james.svg?style=social&label=Star)
+
+### 下载
+
+- [Motrix](https://github.com/agalwood/Motrix) - 下载管理工具 ![](https://img.shields.io/github/stars/agalwood/Motrix.svg?style=social&label=Star)
+- [WebTorrent](https://github.com/feross/webtorrent-app) - 流媒体下载客户端。 ![](https://img.shields.io/github/stars/feross/webtorrent-app.svg?style=social&label=Star)
+- [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent 客户端。 ![](https://img.shields.io/github/stars/LeeChSien/nuTorrent.svg?style=social&label=Star)
 
 ### 效率
 
