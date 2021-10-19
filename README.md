@@ -6,6 +6,7 @@
 - [官方资源](#官方资源)
 - [资源](#资源)
   - [工具](#工具)
+- [样板](#样板)
 - [库](#库)
   - [进程间通信(IPC)](#进程间通信ipc)
   - [检测/判断](#检测判断)
@@ -53,6 +54,19 @@
 ### 工具
 
 - [Electron Fiddle](https://www.electronjs.org/fiddle) - 最简单的 Electron 入门方式。
+
+## 样板
+
+- [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - 基于 React 和 Webpack 的样板。 ![](https://img.shields.io/github/stars/chentsulin/electron-react-boilerplate.svg?style=social&label=Star)
+- [electron-quick-start](https://github.com/electron/electron-quick-start) - 官方提供的快速开始。 ![](https://img.shields.io/github/stars/electron/electron-quick-start.svg?style=social&label=Star)
+- [angular-electron](https://github.com/maximegris/angular-electron) - 使用 Angular、Electron、TypeScript、SASS 和 Hot Reload 快速开始。 ![](https://img.shields.io/github/stars/maximegris/angular-electron.svg?style=social&label=Star)
+- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - 甚至生成安装程序的综合样板。 ![](https://img.shields.io/github/stars/szwacz/electron-boilerplate.svg?style=social&label=Star)
+- [secure-electron-template](https://github.com/reZach/secure-electron-template) - 以安全为中心的样板，用于使用 React、Redux、Webpack 和 i18next 创建应用程序。 ![](https://img.shields.io/github/stars/reZach/secure-electron-template.svg?style=social&label=Star)
+- [bozon](https://github.com/railsware/bozon) - 搭建、运行、测试和打包您的应用程序。 ![](https://img.shields.io/github/stars/railsware/bozon.svg?style=social&label=Star)
+- [generator-electron](https://github.com/sindresorhus/generator-electron) - 搭建一个应用样板。 ![](https://img.shields.io/github/stars/sindresorhus/generator-electron.svg?style=social&label=Star)
+- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - 启动创建应用程序的样板。 ![](https://img.shields.io/github/stars/sindresorhus/electron-better-ipc.svg?style=social&label=Star)
+- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - 基于 Vite 的 Electron 应用程序的安全样板。 TypeScript + Vue/React/Angular/Svelte/原生JS。 ![](https://img.shields.io/github/stars/cawa-93/vite-electron-builder.svg?style=social&label=Star)
+- [electron-egg](https://github.com/wallace5303/electron-egg) - 一个入门简单、快速高效、功能丰富的JS跨平台桌面软件开发框架。 ![](https://img.shields.io/github/stars/wallace5303/electron-egg.svg?style=social&label=Star)
 
 ## 库
 

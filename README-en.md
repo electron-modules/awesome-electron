@@ -6,6 +6,7 @@ English | [简体中文](./README.md)
 - [Official](#official)
 - [Resources](#resources)
   - [Tools](#tools)
+- [Boilerplates](#boilerplates)
 - [Library](#library)
   - [IPC](#ipc)
   - [Check/Detect](#checkdetect)
@@ -53,6 +54,19 @@ English | [简体中文](./README.md)
 ### Tools
 
 - [Electron Fiddle](https://www.electronjs.org/fiddle) - The easiest way to get started with Electron.
+
+## Boilerplates
+
+- [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack. ![](https://img.shields.io/github/stars/chentsulin/electron-react-boilerplate.svg?style=social&label=Star)
+- [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app. ![](https://img.shields.io/github/stars/electron/electron-quick-start.svg?style=social&label=Star)
+- [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload. ![](https://img.shields.io/github/stars/maximegris/angular-electron.svg?style=social&label=Star)
+- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers. ![](https://img.shields.io/github/stars/szwacz/electron-boilerplate.svg?style=social&label=Star)
+- [secure-electron-template](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next. ![](https://img.shields.io/github/stars/reZach/secure-electron-template.svg?style=social&label=Star)
+- [bozon](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app. ![](https://img.shields.io/github/stars/railsware/bozon.svg?style=social&label=Star)
+- [generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate. ![](https://img.shields.io/github/stars/sindresorhus/generator-electron.svg?style=social&label=Star)
+- [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app. ![](https://img.shields.io/github/stars/sindresorhus/electron-better-ipc.svg?style=social&label=Star)
+- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla. ![](https://img.shields.io/github/stars/cawa-93/vite-electron-builder.svg?style=social&label=Star)
+- [electron-egg](https://github.com/wallace5303/electron-egg) - A cross-platform desktop software development JavaScript framework that is easy to get started, fast, efficient, and feature-rich. ![](https://img.shields.io/github/stars/wallace5303/electron-egg.svg?style=social&label=Star)
 
 ## Library
 
