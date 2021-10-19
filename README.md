@@ -36,6 +36,7 @@
   - [Docker](#docker)
   - [硬件统计信息](#硬件统计信息)
   - [HTTP](#http)
+  - [效率](#效率)
 - [相关链接](#相关链接)
 
 ## 官方资源
@@ -253,6 +254,12 @@
 
 - [Insomnia](https://github.com/getinsomnia/insomnia) - 创建和管理 HTTP 请求。 ![](https://img.shields.io/github/stars/getinsomnia/insomnia.svg?style=social&label=Star)
 - [James](https://github.com/uxebu/james) -  HTTP 代理，用于查看和拦截浏览器请求的。 ![](https://img.shields.io/github/stars/uxebu/james.svg?style=social&label=Star)
+
+### 效率
+
+- [Pomotroid](https://github.com/Splode/pomotroid) - 番茄时间管理定时器。 ![](https://img.shields.io/github/stars/Splode/pomotroid.svg?style=social&label=Star)
+- [Pomodoro](https://github.com/G07cha/pomodoro) - 基于番茄工作法的计时器。 ![](https://img.shields.io/github/stars/G07cha/pomodoro.svg?style=social&label=Star)
+- [VIR](https://github.com/TommyX12/VIR) - 具有自动计划功能的智能时间管理器。 ![](https://img.shields.io/github/stars/TommyX12/VIR.svg?style=social&label=Star)
 
 ## 相关链接
 

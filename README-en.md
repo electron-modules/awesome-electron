@@ -36,6 +36,7 @@ English | [简体中文](./README.md)
   - [Docker](#docker)
   - [Hardware stats](#hardware-stats)
   - [HTTP](#http)
+  - [Efficient](#efficient)
 - [Related](#related)
 
 ## Official
@@ -253,6 +254,12 @@ English | [简体中文](./README.md)
 
 - [Insomnia](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests. ![](https://img.shields.io/github/stars/getinsomnia/insomnia.svg?style=social&label=Star)
 - [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests. ![](https://img.shields.io/github/stars/uxebu/james.svg?style=social&label=Star)
+
+### Efficient
+
+- [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer. ![](https://img.shields.io/github/stars/Splode/pomotroid.svg?style=social&label=Star)
+- [Pomodoro](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique. ![](https://img.shields.io/github/stars/G07cha/pomodoro.svg?style=social&label=Star)
+- [VIR](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning. ![](https://img.shields.io/github/stars/TommyX12/VIR.svg?style=social&label=Star)
 
 ## Related
 
