@@ -64,6 +64,7 @@
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - 官方提供的快速开始。 ![](https://img.shields.io/github/stars/electron/electron-quick-start.svg?style=social&label=Star)
 - [angular-electron](https://github.com/maximegris/angular-electron) - 使用 Angular、Electron、TypeScript、SASS 和 Hot Reload 快速开始。 ![](https://img.shields.io/github/stars/maximegris/angular-electron.svg?style=social&label=Star)
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - 甚至生成安装程序的综合样板。 ![](https://img.shields.io/github/stars/szwacz/electron-boilerplate.svg?style=social&label=Star)
+- [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) - 一个 Electron 样板，包括 TypeScript、React、Jest 和 ESLint。 ![](https://img.shields.io/github/stars/diego3g/electron-typescript-react.svg?style=social&label=Star)
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - 以安全为中心的样板，用于使用 React、Redux、Webpack 和 i18next 创建应用程序。 ![](https://img.shields.io/github/stars/reZach/secure-electron-template.svg?style=social&label=Star)
 - [bozon](https://github.com/railsware/bozon) - 搭建、运行、测试和打包您的应用程序。 ![](https://img.shields.io/github/stars/railsware/bozon.svg?style=social&label=Star)
 - [generator-electron](https://github.com/sindresorhus/generator-electron) - 搭建一个应用样板。 ![](https://img.shields.io/github/stars/sindresorhus/generator-electron.svg?style=social&label=Star)
