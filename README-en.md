@@ -23,6 +23,7 @@ English | [简体中文](./README.md)
 - [Application](#application)
   - [IDE](#ide)
   - [Markdown](#markdown)
+  - [Notepad](#notepad)
   - [Browser](#browser)
   - [Git](#git)
   - [Database Client](#database-client)
@@ -37,6 +38,8 @@ English | [简体中文](./README.md)
   - [Hardware stats](#hardware-stats)
   - [HTTP](#http)
   - [Efficient](#efficient)
+  - [App Launcher](#app-launcher)
+  - [Unofficial Apps](#unofficial-apps)
 - [Related](#related)
 
 ## Official
@@ -159,6 +162,16 @@ English | [简体中文](./README.md)
 - [Proton](https://github.com/steventhanna/proton) - Markdown editor with live preview. ![](https://img.shields.io/github/stars/steventhanna/proton.svg?style=social&label=Star)
 - [Markn](https://github.com/minodisk/markn) - Lightweight Markdown viewer. ![](https://img.shields.io/github/stars/minodisk/markn.svg?style=social&label=Star)
 
+### Notepad
+
+- [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking. ![](https://img.shields.io/github/stars/fabiospampinato/notable.svg?style=social&label=Star)
+- [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper. ![](https://img.shields.io/github/stars/Automattic/simplenote-electron.svg?style=social&label=Star)
+- [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app. ![](https://img.shields.io/github/stars/champloohq/tusk.svg?style=social&label=Star)
+- [Leanote](https://github.com/leanote/desktop-app) - Cloud notepad. ![](https://img.shields.io/github/stars/leanote/desktop-app.svg?style=social&label=Star)
+- [Noty](https://github.com/fabiospampinato/noty) - Auto-saving sticky note with support for multiple notes in a single window. ![](https://img.shields.io/github/stars/fabiospampinato/noty.svg?style=social&label=Star)
+- [Yana](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search. ![](https://img.shields.io/github/stars/lukasbach/yana.svg?style=social&label=Star)
+- [Moonview](https://github.com/teesloane/moonview) - Ambient notepad. ![](https://img.shields.io/github/stars/teesloane/moonview.svg?style=social&label=Star)
+
 ### Browser
 
 - [Beaker](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols. ![](https://img.shields.io/github/stars/beakerbrowser/beaker.svg?style=social&label=Star)
@@ -219,6 +232,7 @@ English | [简体中文](./README.md)
 
 ### Password
 
+- [KeeWeb](https://github.com/keeweb/keeweb) - Unofficial KeePass app. ![](https://img.shields.io/github/stars/keeweb/keeweb.svg?style=social&label=Star)
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Password manager. ![](https://img.shields.io/github/stars/buttercup/buttercup-desktop.svg?style=social&label=Star)
 - [Swifty](https://github.com/swiftyapp/swifty) - Password manager. ![](https://img.shields.io/github/stars/swiftyapp/swifty.svg?style=social&label=Star)
 - [Hawkpass](https://github.com/kalpetros/hawkpass) - Password generator. ![](https://img.shields.io/github/stars/kalpetros/hawkpass.svg?style=social&label=Star)
@@ -258,8 +272,30 @@ English | [简体中文](./README.md)
 ### Efficient
 
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer. ![](https://img.shields.io/github/stars/Splode/pomotroid.svg?style=social&label=Star)
+- [Ao](https://github.com/klauscfhq/ao) - Unofficial Microsoft To-Do app. ![](https://img.shields.io/github/stars/klauscfhq/ao.svg?style=social&label=Star)
 - [Pomodoro](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique. ![](https://img.shields.io/github/stars/G07cha/pomodoro.svg?style=social&label=Star)
 - [VIR](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning. ![](https://img.shields.io/github/stars/TommyX12/VIR.svg?style=social&label=Star)
+- [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单). ![](https://img.shields.io/github/stars/xwartz/dida.svg?style=social&label=Star)
+
+### App Launcher
+
+- [Cerebro](https://github.com/KELiON/cerebro) - Launcher with inline previews. ![](https://img.shields.io/github/stars/KELiON/cerebro.svg?style=social&label=Star)
+- [Hain](https://github.com/appetizermonster/hain) - Launcher for Windows. ![](https://img.shields.io/github/stars/appetizermonster/hain.svg?style=social&label=Star)
+- [Zazu](https://github.com/tinytacoteam/zazu) - Launcher. ![](https://img.shields.io/github/stars/tinytacoteam/zazu.svg?style=social&label=Star)
+- [Dext](https://github.com/vutran/dext) - Launcher. ![](https://img.shields.io/github/stars/vutran/dext.svg?style=social&label=Star)
+
+### Unofficial Apps
+
+- [YakYak](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app. ![](https://img.shields.io/github/stars/yakyak/yakyak.svg?style=social&label=Star)
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram app. ![](https://img.shields.io/github/stars/terkelg/ramme.svg?style=social&label=Star)
+- [DevDocs](https://github.com/egoist/devdocs-app) - Unofficial DevDocs.io app. ![](https://img.shields.io/github/stars/egoist/devdocs-app.svg?style=social&label=Star)
+- [Mattermost](https://github.com/mattermost/desktop) - Mattermost client. ![](https://img.shields.io/github/stars/mattermost/desktop.svg?style=social&label=Star)
+- [WhatsDesktop](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app. ![](https://img.shields.io/github/stars/mawie81/whatsdesktop.svg?style=social&label=Star)
+- [Fog](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app. ![](https://img.shields.io/github/stars/vitorgalvao/fog.svg?style=social&label=Star)
+- [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app. ![](https://img.shields.io/github/stars/sivragav/mediumdesk.svg?style=social&label=Star)
+- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe app. ![](https://img.shields.io/github/stars/dcrousso/GroupMe.svg?style=social&label=Star)
+- [DTCP](https://github.com/alchen/DTCP) - Twitter client. ![](https://img.shields.io/github/stars/alchen/DTCP.svg?style=social&label=Star)
+- [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app. ![](https://img.shields.io/github/stars/nurtext/active-collab-desktop.svg?style=social&label=Star)
 
 ## Related
 

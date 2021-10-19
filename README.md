@@ -23,6 +23,7 @@
 - [应用](#应用)
   - [IDE](#ide)
   - [Markdown](#markdown)
+  - [记事本](#记事本)
   - [浏览器](#浏览器)
   - [Git](#git)
   - [数据库客户端](#数据库客户端)
@@ -37,6 +38,8 @@
   - [硬件统计信息](#硬件统计信息)
   - [HTTP](#http)
   - [效率](#效率)
+  - [应用启动器](#应用启动器)
+  - [一些非官方的应用](#一些非官方的应用)
 - [相关链接](#相关链接)
 
 ## 官方资源
@@ -159,6 +162,16 @@
 - [Proton](https://github.com/steventhanna/proton) - 可实时预览的 Markdown 编辑器。 ![](https://img.shields.io/github/stars/steventhanna/proton.svg?style=social&label=Star)
 - [Markn](https://github.com/minodisk/markn) - 轻量的 Markdown 预览器。 ![](https://img.shields.io/github/stars/minodisk/markn.svg?style=social&label=Star)
 
+### 记事本
+
+- [Notable](https://github.com/fabiospampinato/notable) - 基于 Markdown 的笔记。 ![](https://img.shields.io/github/stars/fabiospampinato/notable.svg?style=social&label=Star)
+- [Simplenote](https://github.com/Automattic/simplenote-electron) - 记事员。 ![](https://img.shields.io/github/stars/Automattic/simplenote-electron.svg?style=social&label=Star)
+- [Tusk](https://github.com/champloohq/tusk) - 非官方 Evernote 应用. ![](https://img.shields.io/github/stars/champloohq/tusk.svg?style=social&label=Star)
+- [Leanote](https://github.com/leanote/desktop-app) - 云笔记。 ![](https://img.shields.io/github/stars/leanote/desktop-app.svg?style=social&label=Star)
+- [Noty](https://github.com/fabiospampinato/noty) - 自动保存便笺，支持单个窗口中的多个便笺。 ![](https://img.shields.io/github/stars/fabiospampinato/noty.svg?style=social&label=Star)
+- [Yana](https://github.com/lukasbach/yana) - 带有富文本笔记、内嵌笔记组织和全局搜索的笔记应用程序。 ![](https://img.shields.io/github/stars/lukasbach/yana.svg?style=social&label=Star)
+- [Moonview](https://github.com/teesloane/moonview) - 笔记应用。 ![](https://img.shields.io/github/stars/teesloane/moonview.svg?style=social&label=Star)
+
 ### 浏览器
 
 - [Beaker](https://github.com/beakerbrowser/beaker) - 具有点对点网络协议的浏览器。 ![](https://img.shields.io/github/stars/beakerbrowser/beaker.svg?style=social&label=Star)
@@ -219,6 +232,7 @@
 
 ### 密码
 
+- [KeeWeb](https://github.com/keeweb/keeweb) - 非官方的 KeePass 应用。 ![](https://img.shields.io/github/stars/keeweb/keeweb.svg?style=social&label=Star)
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - 密码管理。 ![](https://img.shields.io/github/stars/buttercup/buttercup-desktop.svg?style=social&label=Star)
 - [Swifty](https://github.com/swiftyapp/swifty) - 密码管理。 ![](https://img.shields.io/github/stars/swiftyapp/swifty.svg?style=social&label=Star)
 - [Hawkpass](https://github.com/kalpetros/hawkpass) - 密码生成。 ![](https://img.shields.io/github/stars/kalpetros/hawkpass.svg?style=social&label=Star)
@@ -258,8 +272,30 @@
 ### 效率
 
 - [Pomotroid](https://github.com/Splode/pomotroid) - 番茄时间管理定时器。 ![](https://img.shields.io/github/stars/Splode/pomotroid.svg?style=social&label=Star)
+- [Ao](https://github.com/klauscfhq/ao) - 非官方的微软 ToDo 应用。![](https://img.shields.io/github/stars/klauscfhq/ao.svg?style=social&label=Star)
 - [Pomodoro](https://github.com/G07cha/pomodoro) - 基于番茄工作法的计时器。 ![](https://img.shields.io/github/stars/G07cha/pomodoro.svg?style=social&label=Star)
 - [VIR](https://github.com/TommyX12/VIR) - 具有自动计划功能的智能时间管理器。 ![](https://img.shields.io/github/stars/TommyX12/VIR.svg?style=social&label=Star)
+- [dida](https://github.com/xwartz/dida) - 添加任务到 TickTick (滴答清单). ![](https://img.shields.io/github/stars/xwartz/dida.svg?style=social&label=Star)
+
+### 应用启动器
+
+- [Cerebro](https://github.com/KELiON/cerebro) - 带内部预览的应用启动器。 ![](https://img.shields.io/github/stars/KELiON/cerebro.svg?style=social&label=Star)
+- [Hain](https://github.com/appetizermonster/hain) - 用于 Windows 的应用启动器。![](https://img.shields.io/github/stars/appetizermonster/hain.svg?style=social&label=Star)
+- [Zazu](https://github.com/tinytacoteam/zazu) - 应用启动器。 ![](https://img.shields.io/github/stars/tinytacoteam/zazu.svg?style=social&label=Star)
+- [Dext](https://github.com/vutran/dext) - 应用启动器。 ![](https://img.shields.io/github/stars/vutran/dext.svg?style=social&label=Star)
+
+### 一些非官方的应用
+
+- [YakYak](https://github.com/yakyak/yakyak) - 非官方的 Google Hangouts 应用. ![](https://img.shields.io/github/stars/yakyak/yakyak.svg?style=social&label=Star)
+- [Ramme](https://github.com/terkelg/ramme) - 非官方的 Instagram 应用. ![](https://img.shields.io/github/stars/terkelg/ramme.svg?style=social&label=Star)
+- [DevDocs](https://github.com/egoist/devdocs-app) - 非官方的 DevDocs.io 应用. ![](https://img.shields.io/github/stars/egoist/devdocs-app.svg?style=social&label=Star)
+- [Mattermost](https://github.com/mattermost/desktop) - Mattermost 客户端. ![](https://img.shields.io/github/stars/mattermost/desktop.svg?style=social&label=Star)
+- [WhatsDesktop](https://github.com/mawie81/whatsdesktop) - 非官方的 WhatsApp 应用. ![](https://img.shields.io/github/stars/mawie81/whatsdesktop.svg?style=social&label=Star)
+- [Fog](https://github.com/vitorgalvao/fog) - 非官方的 Overcast podcast 应用。 ![](https://img.shields.io/github/stars/vitorgalvao/fog.svg?style=social&label=Star)
+- [MediumDesk](https://github.com/sivragav/mediumdesk) - 非官方的 Medium 应用。 ![](https://img.shields.io/github/stars/sivragav/mediumdesk.svg?style=social&label=Star)
+- [GroupMe](https://github.com/dcrousso/GroupMe) - 非官方的 GroupMe 应用。 ![](https://img.shields.io/github/stars/dcrousso/GroupMe.svg?style=social&label=Star)
+- [DTCP](https://github.com/alchen/DTCP) - 非官方的 Twitter 客户端。 ![](https://img.shields.io/github/stars/alchen/DTCP.svg?style=social&label=Star)
+- [Active Collab](https://github.com/nurtext/active-collab-desktop) - 非官方的 Active Collab 应用。 ![](https://img.shields.io/github/stars/nurtext/active-collab-desktop.svg?style=social&label=Star)
 
 ## 相关链接
 
