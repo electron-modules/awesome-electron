@@ -21,6 +21,7 @@ English | [简体中文](./README.md)
   - [Debug](#debug)
   - [Dev Tools](#dev-tools)
   - [Testing](#testing)
+  - [Uncategorized](#uncategorized)
 - [Apps](#apps)
   - [IDE](#ide)
   - [Markdown](#markdown)
@@ -133,6 +134,8 @@ English | [简体中文](./README.md)
 
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support. ![](https://img.shields.io/github/stars/ArekSredzki/electron-release-server.svg?style=social&label=Star)
 - [nuts](https://github.com/GitbookIO/nuts) - Releases/downloads server with auto-updater and GitHub as a backend. ![](https://img.shields.io/github/stars/GitbookIO/nuts.svg?style=social&label=Star)
+- [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub. ![](https://img.shields.io/github/stars/electron-userland/electron-download.svg?style=social&label=Star)
+- [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub. ![](https://img.shields.io/github/stars/jenslind/electron-gh-releases.svg?style=social&label=Star)
 
 ### Logging
 
@@ -158,6 +161,36 @@ English | [简体中文](./README.md)
 - [spectron](https://github.com/electron-userland/spectron) - Test Electron apps using ChromeDriver.  ![](https://img.shields.io/github/stars/electron-userland/spectron.svg?style=social&label=Star)
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron. ![](https://img.shields.io/github/stars/jprichardson/electron-mocha.svg?style=social&label=Star)
 - [jest-electron](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment. ![](https://img.shields.io/github/stars/hustcc/jest-electron.svg?style=social&label=Star)
+
+### Uncategorized
+
+- [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules. ![](https://img.shields.io/github/stars/sindresorhus/electron-util.svg?style=social&label=Star)
+- [electron-compile](https://github.com/electron/electron-compile) - Use ES2015, CoffeeScript, Less, Stylus in your app without a precompilation step. ![](https://img.shields.io/github/stars/electron/electron-compile.svg?style=social&label=Star)
+- [electron-rebuild](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version. ![](https://img.shields.io/github/stars/electron/electron-rebuild.svg?style=social&label=Star)
+- [electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads. ![](https://img.shields.io/github/stars/sindresorhus/electron-dl.svg?style=social&label=Star)
+- [auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch apps at system startup. ![](https://img.shields.io/github/stars/Teamwork/node-auto-launch.svg?style=social&label=Star)
+- [electron-redux](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows. ![](https://img.shields.io/github/stars/hardchor/electron-redux.svg?style=social&label=Star)
+- [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns. ![](https://img.shields.io/github/stars/doyensec/electronegativity.svg?style=social&label=Star)
+- [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular. ![](https://img.shields.io/github/stars/ThorstenHans/ngx-electron.svg?style=social&label=Star)
+- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps. ![](https://img.shields.io/github/stars/electron-userland/electron-osx-sign.svg?style=social&label=Star)
+- [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads. ![](https://img.shields.io/github/stars/cliqz-oss/adblocker.svg?style=social&label=Star)
+- [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window. ![](https://img.shields.io/github/stars/parro-it/electron-localshortcut.svg?style=social&label=Star)
+- [electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' window. ![](https://img.shields.io/github/stars/rhysd/electron-about-window.svg?style=social&label=Star)
+- [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections. ![](https://img.shields.io/github/stars/sindresorhus/electron-unhandled.svg?style=social&label=Star)
+- [electron-sudo](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges. ![](https://img.shields.io/github/stars/automation-stack/electron-sudo.svg?style=social&label=Star)
+- [electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`). ![](https://img.shields.io/github/stars/sindresorhus/electron-serve.svg?style=social&label=Star)
+- [fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process. ![](https://img.shields.io/github/stars/sindresorhus/fix-path.svg?style=social&label=Star)
+- [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows. ![](https://img.shields.io/github/stars/gerhardberger/electron-pdf-window.svg?style=social&label=Star)
+- [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output. ![](https://img.shields.io/github/stars/sindresorhus/run-electron.svg?style=social&label=Star)
+- [electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager). ![](https://img.shields.io/github/stars/getstation/electron-process-manager.svg?style=social&label=Star)
+- [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - Simplified API for accessing macOS's appearance settings. ![](https://img.shields.io/github/stars/danhp/electron-osx-appearance.svg?style=social&label=Star)
+- [electron-router](https://github.com/m0n0l0c0/electron-router) - Router tidying up IPC message passing. ![](https://img.shields.io/github/stars/m0n0l0c0/electron-router.svg?style=social&label=Star)
+- [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions. ![](https://img.shields.io/github/stars/getstation/electron-chrome-extension.svg?style=social&label=Star)
+- [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process. ![](https://img.shields.io/github/stars/parro-it/electron-detach.svg?style=social&label=Star)
+- [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel preset that only compiles what's necessary for a particular Electron version. ![](https://img.shields.io/github/stars/emorikawa/babel-preset-electron.svg?style=social&label=Star)
+- [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - Prevent MITM. ![](https://img.shields.io/github/stars/dialogs/electron-ssl-pinning.svg?style=social&label=Star)
+- [electron-require](https://github.com/brrd/electron-require) - Simplified require. ![](https://img.shields.io/github/stars/brrd/electron-require.svg?style=social&label=Star)
+- [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes. ![](https://img.shields.io/github/stars/maxkueng/chromium-net-errors.svg?style=social&label=Star)
 
 ## Apps
 

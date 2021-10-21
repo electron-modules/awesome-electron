@@ -21,6 +21,7 @@
   - [调试](#调试)
   - [开发工具](#开发工具)
   - [测试](#测试)
+  - [未分类](#未分类)
 - [应用](#应用)
   - [IDE](#ide)
   - [Markdown](#markdown)
@@ -133,6 +134,8 @@
 
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - 具有前端和自动更新程序支持的自托管发布服务器。 ![](https://img.shields.io/github/stars/ArekSredzki/electron-release-server.svg?style=social&label=Star)
 - [nuts](https://github.com/GitbookIO/nuts) - 依赖 GitHub 的自动更新发布/下载服务器。 ![](https://img.shields.io/github/stars/GitbookIO/nuts.svg?style=social&label=Star)
+- [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub. ![](https://img.shields.io/github/stars/electron-userland/electron-download.svg?style=social&label=Star)
+- [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub. ![](https://img.shields.io/github/stars/jenslind/electron-gh-releases.svg?style=social&label=Star)
 
 ### 日志
 
@@ -158,6 +161,36 @@
 - [spectron](https://github.com/electron-userland/spectron) - 使用 ChromeDriver 测试 Electron 应用。 ![](https://img.shields.io/github/stars/electron-userland/spectron.svg?style=social&label=Star)
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在 Electron 中运行 Mocha 测试用例。 ![](https://img.shields.io/github/stars/jprichardson/electron-mocha.svg?style=social&label=Star)
 - [jest-electron](https://github.com/hustcc/jest-electron) - 运行和调试 Jest 单元测试到浏览器环境中。 ![](https://img.shields.io/github/stars/hustcc/jest-electron.svg?style=social&label=Star)
+
+### 未分类
+
+- [electron-util](https://github.com/sindresorhus/electron-util) - 用于开发应用和模块的有用工具。 ![](https://img.shields.io/github/stars/sindresorhus/electron-util.svg?style=social&label=Star)
+- [electron-compile](https://github.com/electron/electron-compile) - 在您的应用程序中使用 ES2015、CoffeeScript、Less、Stylus，无需预编译。![](https://img.shields.io/github/stars/electron/electron-compile.svg?style=social&label=Star)
+- [electron-rebuild](https://github.com/electron/electron-rebuild) - 重新构建当前安装的 Electron 版本的原生 Node.js 模块。 ![](https://img.shields.io/github/stars/electron/electron-rebuild.svg?style=social&label=Star)
+- [electron-dl](https://github.com/sindresorhus/electron-dl) - 简化文件下载。 ![](https://img.shields.io/github/stars/sindresorhus/electron-dl.svg?style=social&label=Star)
+- [auto-launch](https://github.com/Teamwork/node-auto-launch) - 在系统启动时启动应用程序。 ![](https://img.shields.io/github/stars/Teamwork/node-auto-launch.svg?style=social&label=Star)
+- [electron-redux](https://github.com/hardchor/electron-redux) - 跨窗口同步 Redux 状态。 ![](https://img.shields.io/github/stars/hardchor/electron-redux.svg?style=social&label=Star)
+- [electronegativity](https://github.com/doyensec/electronegativity) - 识别错误配置和安全反模式。 ![](https://img.shields.io/github/stars/doyensec/electronegativity.svg?style=social&label=Star)
+- [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - 集成 Electron API 和 Angular。 ![](https://img.shields.io/github/stars/ThorstenHans/ngx-electron.svg?style=social&label=Star)
+- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - macOS 应用程序的代码签名。 ![](https://img.shields.io/github/stars/electron-userland/electron-osx-sign.svg?style=social&label=Star)
+- [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - 阻止广告。 ![](https://img.shields.io/github/stars/cliqz-oss/adblocker.svg?style=social&label=Star)
+- [electron-localshortcut](https://github.com/parro-it/electron-localshortcut) - 在本地为窗口添加快捷键。 ![](https://img.shields.io/github/stars/parro-it/electron-localshortcut.svg?style=social&label=Star)
+- [electron-about-window](https://github.com/rhysd/electron-about-window) - “关于此应用程序”窗口。 ![](https://img.shields.io/github/stars/rhysd/electron-about-window.svg?style=social&label=Star)
+- [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - 捕获未处理的错误和 Promise 的 rejections。 ![](https://img.shields.io/github/stars/sindresorhus/electron-unhandled.svg?style=social&label=Star)
+- [electron-sudo](https://github.com/automation-stack/electron-sudo) - 使子进程具备管理权限。 ![](https://img.shields.io/github/stars/automation-stack/electron-sudo.svg?style=social&label=Star)
+- [electron-serve](https://github.com/sindresorhus/electron-serve) - 静态文件服务（对于路由很有用，类似 `react-router`）. ![](https://img.shields.io/github/stars/sindresorhus/electron-serve.svg?style=social&label=Star)
+- [fix-path](https://github.com/sindresorhus/fix-path) - 从 GUI 应用程序运行时修复 macOS 上的 $PATH。在创建子进程时很有用。 ![](https://img.shields.io/github/stars/sindresorhus/fix-path.svg?style=social&label=Star)
+- [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - 在浏览器窗口(BrowserWindow)中查看 PDF 文件。 ![](https://img.shields.io/github/stars/gerhardberger/electron-pdf-window.svg?style=social&label=Star)
+- [run-electron](https://github.com/sindresorhus/run-electron) - 在没有任何垃圾输出到终端的情况下运行 Electron。 ![](https://img.shields.io/github/stars/sindresorhus/run-electron.svg?style=social&label=Star)
+- [electron-process-manager](https://github.com/getstation/electron-process-manager) - 进程管理器 UI（就像 Chrome 的任务管理器）。 ![](https://img.shields.io/github/stars/getstation/electron-process-manager.svg?style=social&label=Star)
+- [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - macOS 外观设置的简化 API。 ![](https://img.shields.io/github/stars/danhp/electron-osx-appearance.svg?style=social&label=Star)
+- [electron-router](https://github.com/m0n0l0c0/electron-router) - 通过路由的方式整理IPC消息传递。 ![](https://img.shields.io/github/stars/m0n0l0c0/electron-router.svg?style=social&label=Star)
+- [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - 添加对 Chrome 扩展程序的支持。 ![](https://img.shields.io/github/stars/getstation/electron-chrome-extension.svg?style=social&label=Star)
+- [electron-detach](https://github.com/parro-it/electron-detach) - 重新启动一个 Electron 应用程序作为一个独立的进程。![](https://img.shields.io/github/stars/parro-it/electron-detach.svg?style=social&label=Star)
+- [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel 预设只编译特定 Electron 版本所需的内容。 ![](https://img.shields.io/github/stars/emorikawa/babel-preset-electron.svg?style=social&label=Star)
+- [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - 防止中间人（MITM）。 ![](https://img.shields.io/github/stars/dialogs/electron-ssl-pinning.svg?style=social&label=Star)
+- [electron-require](https://github.com/brrd/electron-require) - 简化  require。 ![](https://img.shields.io/github/stars/brrd/electron-require.svg?style=social&label=Star)
+- [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - 将Chromium 的网络错误作为自定义错误类。 ![](https://img.shields.io/github/stars/maxkueng/chromium-net-errors.svg?style=social&label=Star)
 
 ## 应用
 
