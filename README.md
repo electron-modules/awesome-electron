@@ -79,6 +79,7 @@
 
 - [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) - 简化 IPC 通信 ![](https://img.shields.io/github/stars/sindresorhus/electron-better-ipc.svg?style=social&label=Star)
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) - IPC 的双工流。 ![](https://img.shields.io/github/stars/jprichardson/electron-ipc-stream.svg?style=social&label=Star)
+- [electron-router](https://github.com/m0n0l0c0/electron-router) - 通过路由的方式整理IPC消息传递。 ![](https://img.shields.io/github/stars/m0n0l0c0/electron-router.svg?style=social&label=Star)
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - 基于IPC进行渲染进程和主进程之间透明异步远程通信。 ![](https://img.shields.io/github/stars/frankwallis/electron-ipc-proxy.svg?style=social&label=Star)
 
 ### 检测/判断
@@ -134,8 +135,9 @@
 
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - 具有前端和自动更新程序支持的自托管发布服务器。 ![](https://img.shields.io/github/stars/ArekSredzki/electron-release-server.svg?style=social&label=Star)
 - [nuts](https://github.com/GitbookIO/nuts) - 依赖 GitHub 的自动更新发布/下载服务器。 ![](https://img.shields.io/github/stars/GitbookIO/nuts.svg?style=social&label=Star)
-- [electron-download](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub. ![](https://img.shields.io/github/stars/electron-userland/electron-download.svg?style=social&label=Star)
-- [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub. ![](https://img.shields.io/github/stars/jenslind/electron-gh-releases.svg?style=social&label=Star)
+- [electron-dl](https://github.com/sindresorhus/electron-dl) - 简化文件下载。 ![](https://img.shields.io/github/stars/sindresorhus/electron-dl.svg?style=social&label=Star)
+- [electron-download](https://github.com/electron-userland/electron-download) - 从 GitHub 下载 Electron 发布 zip。 ![](https://img.shields.io/github/stars/electron-userland/electron-download.svg?style=social&label=Star)
+- [electron-gh-release](https://github.com/jenslind/electron-gh-releases) - 通过在 GitHub 上发布来自动更新。 ![](https://img.shields.io/github/stars/jenslind/electron-gh-releases.svg?style=social&label=Star)
 
 ### 日志
 
@@ -167,7 +169,6 @@
 - [electron-util](https://github.com/sindresorhus/electron-util) - 用于开发应用和模块的有用工具。 ![](https://img.shields.io/github/stars/sindresorhus/electron-util.svg?style=social&label=Star)
 - [electron-compile](https://github.com/electron/electron-compile) - 在您的应用程序中使用 ES2015、CoffeeScript、Less、Stylus，无需预编译。![](https://img.shields.io/github/stars/electron/electron-compile.svg?style=social&label=Star)
 - [electron-rebuild](https://github.com/electron/electron-rebuild) - 重新构建当前安装的 Electron 版本的原生 Node.js 模块。 ![](https://img.shields.io/github/stars/electron/electron-rebuild.svg?style=social&label=Star)
-- [electron-dl](https://github.com/sindresorhus/electron-dl) - 简化文件下载。 ![](https://img.shields.io/github/stars/sindresorhus/electron-dl.svg?style=social&label=Star)
 - [auto-launch](https://github.com/Teamwork/node-auto-launch) - 在系统启动时启动应用程序。 ![](https://img.shields.io/github/stars/Teamwork/node-auto-launch.svg?style=social&label=Star)
 - [electron-redux](https://github.com/hardchor/electron-redux) - 跨窗口同步 Redux 状态。 ![](https://img.shields.io/github/stars/hardchor/electron-redux.svg?style=social&label=Star)
 - [electronegativity](https://github.com/doyensec/electronegativity) - 识别错误配置和安全反模式。 ![](https://img.shields.io/github/stars/doyensec/electronegativity.svg?style=social&label=Star)
@@ -184,7 +185,6 @@
 - [run-electron](https://github.com/sindresorhus/run-electron) - 在没有任何垃圾输出到终端的情况下运行 Electron。 ![](https://img.shields.io/github/stars/sindresorhus/run-electron.svg?style=social&label=Star)
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - 进程管理器 UI（就像 Chrome 的任务管理器）。 ![](https://img.shields.io/github/stars/getstation/electron-process-manager.svg?style=social&label=Star)
 - [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - macOS 外观设置的简化 API。 ![](https://img.shields.io/github/stars/danhp/electron-osx-appearance.svg?style=social&label=Star)
-- [electron-router](https://github.com/m0n0l0c0/electron-router) - 通过路由的方式整理IPC消息传递。 ![](https://img.shields.io/github/stars/m0n0l0c0/electron-router.svg?style=social&label=Star)
 - [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - 添加对 Chrome 扩展程序的支持。 ![](https://img.shields.io/github/stars/getstation/electron-chrome-extension.svg?style=social&label=Star)
 - [electron-detach](https://github.com/parro-it/electron-detach) - 重新启动一个 Electron 应用程序作为一个独立的进程。![](https://img.shields.io/github/stars/parro-it/electron-detach.svg?style=social&label=Star)
 - [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel 预设只编译特定 Electron 版本所需的内容。 ![](https://img.shields.io/github/stars/emorikawa/babel-preset-electron.svg?style=social&label=Star)
