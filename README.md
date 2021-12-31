@@ -72,6 +72,7 @@
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - 启动创建应用程序的样板。 ![](https://img.shields.io/github/stars/sindresorhus/electron-better-ipc.svg?style=social&label=Star)
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - 基于 Vite 的 Electron 应用程序的安全样板。 TypeScript + Vue/React/Angular/Svelte/原生JS。 ![](https://img.shields.io/github/stars/cawa-93/vite-electron-builder.svg?style=social&label=Star)
 - [electron-egg](https://github.com/wallace5303/electron-egg) - 一个入门简单、快速高效、功能丰富的JS跨平台桌面软件开发框架。 ![](https://img.shields.io/github/stars/wallace5303/electron-egg.svg?style=social&label=Star)
+- [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - Vue3 + Vite + electron 的项目模板。  ![](https://img.shields.io/github/stars/umbrella22/electron-vite-template.svg?style=social&label=Star)
 
 ## 库
 
