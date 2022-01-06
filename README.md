@@ -265,6 +265,7 @@
 ### 视频/音频
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件。 ![](https://img.shields.io/github/stars/lyswhut/lx-music-desktop.svg?style=social&label=Star)
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器。 ![](https://img.shields.io/github/stars/qier222/YesPlayMusic.svg?style=social&label=Star)
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - 非官方的 Google Play 音乐应用。 ![](https://img.shields.io/github/stars/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-.svg?style=social&label=Star)
 - [Nuclear](https://github.com/nukeop/nuclear) - 为您找到免费音乐的流媒体音乐播放器。 ![](https://img.shields.io/github/stars/nukeop/nuclear.svg?style=social&label=Star)
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - 菜单栏中的 SoundCloud 播放器。 ![](https://img.shields.io/github/stars/gillesdemey/Cumulus.svg?style=social&label=Star)
