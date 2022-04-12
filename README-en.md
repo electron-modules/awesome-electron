@@ -118,8 +118,9 @@ English | [简体中文](./README.md)
 
 ### Database
 
-- [RxDB](https://github.com/pubkey/rxdb) - A realtime NoSQL database. ![](https://img.shields.io/github/stars/pubkey/rxdb.svg?style=social&label=Star)
+- [RxDB](https://github.com/pubkey/rxdb) - A client side, offline-first, reactive database for JavaScript Applications. ![](https://img.shields.io/github/stars/pubkey/rxdb.svg?style=social&label=Star)
 - [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database. ![](https://img.shields.io/github/stars/louischatriot/nedb.svg?style=social&label=Star)
+- [realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores. ![](https://img.shields.io/github/stars/realm/realm-js.svg?style=social&label=Star)
 - [trilogy](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends. ![](https://img.shields.io/github/stars/citycide/trilogy.svg?style=social&label=Star)
 
 ### Packager/Installer

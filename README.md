@@ -120,6 +120,7 @@
 
 - [RxDB](https://github.com/pubkey/rxdb) - 实时 NoSQL 数据库。 ![](https://img.shields.io/github/stars/pubkey/rxdb.svg?style=social&label=Star)
 - [NeDB](https://github.com/louischatriot/nedb) - 嵌入式持久化或内存数据库。 ![](https://img.shields.io/github/stars/louischatriot/nedb.svg?style=social&label=Star)
+- [realm-js](https://github.com/realm/realm-js) - Realm 是一个移动数据库：SQLite 和 KV 存储的替代品。 ![](https://img.shields.io/github/stars/realm/realm-js.svg?style=social&label=Star)
 - [trilogy](https://github.com/citycide/trilogy) - TypeScript SQLite 数据库层，支持原生 C++ 和纯 JavaScript 后端。 ![](https://img.shields.io/github/stars/citycide/trilogy.svg?style=social&label=Star)
 
 ### 打包程序/安装程序
