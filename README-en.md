@@ -267,6 +267,7 @@ English | [简体中文](./README.md)
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - A Music app based on electron. ![](https://img.shields.io/github/stars/lyswhut/lx-music-desktop.svg?style=social&label=Star)
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A Netease Cloud Music App. ![](https://img.shields.io/github/stars/qier222/YesPlayMusic.svg?style=social&label=Star)
+- [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing. ![](https://img.shields.io/github/stars/mifi/lossless-cut.svg?style=social&label=Star)
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app. ![](https://img.shields.io/github/stars/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-.svg?style=social&label=Star)
 - [Nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you. ![](https://img.shields.io/github/stars/nukeop/nuclear.svg?style=social&label=Star)
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar. ![](https://img.shields.io/github/stars/gillesdemey/Cumulus.svg?style=social&label=Star)
