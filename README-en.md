@@ -7,6 +7,7 @@ English | [简体中文](./README.md)
 - [Resources](#resources)
   - [Tools](#tools)
 - [Boilerplates](#boilerplates)
+- [Framework](#framework)
 - [Library](#library)
   - [IPC](#ipc)
   - [Check/Detect](#checkdetect)
@@ -73,6 +74,10 @@ English | [简体中文](./README.md)
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla. ![](https://img.shields.io/github/stars/cawa-93/vite-electron-builder.svg?style=social&label=Star)
 - [electron-egg](https://github.com/wallace5303/electron-egg) - A cross-platform desktop software development JavaScript framework that is easy to get started, fast, efficient, and feature-rich. ![](https://img.shields.io/github/stars/wallace5303/electron-egg.svg?style=social&label=Star)
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - A vue3 + Vite + electron project template.  ![](https://img.shields.io/github/stars/umbrella22/electron-vite-template.svg?style=social&label=Star)
+
+## Framework
+
+- [electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework. ![](https://img.shields.io/github/stars/dromara/electron-egg.svg?style=social&label=Star)
 
 ## Library
 
