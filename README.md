@@ -17,6 +17,7 @@
   - [持久化](#持久化)
   - [数据库](#数据库)
   - [打包程序/安装程序](#打包程序安装程序)
+  - [源码混淆/保护](#源码混淆保护)
   - [自动更新/发布服务器](#自动更新发布服务器)
   - [日志](#日志)
   - [调试](#调试)
@@ -138,6 +139,11 @@
 - [electron-installer-debian](https://github.com/unindented/electron-installer-debian) - 构建 Debian 包。 ![](https://img.shields.io/github/stars/unindented/electron-installer-debian.svg?style=social&label=Star)
 - [electrify](https://github.com/arboleya/electrify) - 打包 Meteor 应用。 ![](https://img.shields.io/github/stars/arboleya/electrify.svg?style=social&label=Star)
 - [electron-installer-redhat](https://github.com/unindented/electron-installer-redhat) - 构建 Red Hat 包。 ![](https://img.shields.io/github/stars/unindented/electron-installer-redhat.svg?style=social&label=Star)
+
+### 源码混淆/保护
+
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - 一个强大的 JavaScript 和 Node.js 混淆器。 ![](https://img.shields.io/github/stars/javascript-obfuscator/javascript-obfuscator.svg?style=social&label=Star)
+- [bytenode](https://github.com/bytenode/bytenode) - 用于 Node.js 的极简字节码编译器。它真正将你的 JavaScript 代码编译成 V8 字节码，这样你就可以保护你的源代码。 ![](https://img.shields.io/github/stars/bytenode/bytenode.svg?style=social&label=Star)
 
 ### 自动更新/发布服务器
 

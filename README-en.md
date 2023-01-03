@@ -17,6 +17,7 @@ English | [简体中文](./README.md)
   - [Persistent](#persistent)
   - [Database](#database)
   - [Packager/Installer](#packagerinstaller)
+  - [Source Code Obfuscator/Protect](#source-code-obfuscatorprotect)
   - [Auto Updater/Release Server](#auto-updaterrelease-server)
   - [Logging](#logging)
   - [Debug](#debug)
@@ -138,6 +139,11 @@ English | [简体中文](./README.md)
 - [electron-installer-debian](https://github.com/unindented/electron-installer-debian) - Create a Debian package. ![](https://img.shields.io/github/stars/unindented/electron-installer-debian.svg?style=social&label=Star)
 - [electrify](https://github.com/arboleya/electrify) - Package Meteor apps. ![](https://img.shields.io/github/stars/arboleya/electrify.svg?style=social&label=Star)
 - [electron-installer-redhat](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package. ![](https://img.shields.io/github/stars/unindented/electron-installer-redhat.svg?style=social&label=Star)
+
+### Source Code Obfuscator/Protect
+
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js. ![](https://img.shields.io/github/stars/javascript-obfuscator/javascript-obfuscator.svg?style=social&label=Star)
+- [bytenode](https://github.com/bytenode/bytenode) - A minimalist bytecode compiler for Node.js. it truly compiles your JavaScript code into V8 bytecode, so that you can protect your source code.  ![](https://img.shields.io/github/stars/bytenode/bytenode.svg?style=social&label=Star)
 
 ### Auto Updater/Release Server
 
