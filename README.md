@@ -264,6 +264,7 @@
 ### 命令终端
 
 - [Hyper](https://github.com/zeit/hyper) - 基于 Web 技术的命令终端。 ![](https://img.shields.io/github/stars/zeit/hyper.svg?style=social&label=Star)
+- [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - 面向本地开发栈的多项目终端工作区。 ![](https://img.shields.io/github/stars/EvanAI0331/terminal-workspace.svg?style=social&label=Star)
 - [edex-ui](https://github.com/GitSquared/edex-ui) - 一个跨平台、可定制的科幻终端模拟器，具有高级监控和支持触摸屏。 ![](https://img.shields.io/github/stars/GitSquared/edex-ui.svg?style=social&label=Star)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - 终端模拟器的瑞士军用电锯。 ![](https://img.shields.io/github/stars/sedwards2009/extraterm.svg?style=social&label=Star)
 
