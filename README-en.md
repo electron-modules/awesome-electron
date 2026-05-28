@@ -264,6 +264,7 @@ English | [简体中文](./README.md)
 ### Terminal
 
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. ![](https://img.shields.io/github/stars/zeit/hyper.svg?style=social&label=Star)
+- [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - Multi-project terminal workspace for local development stacks. ![](https://img.shields.io/github/stars/EvanAI0331/terminal-workspace.svg?style=social&label=Star)
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. ![](https://img.shields.io/github/stars/GitSquared/edex-ui.svg?style=social&label=Star)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. ![](https://img.shields.io/github/stars/sedwards2009/extraterm.svg?style=social&label=Star)
 
