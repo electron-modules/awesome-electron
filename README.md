@@ -354,6 +354,7 @@
 - [Pomodoro](https://github.com/G07cha/pomodoro) - 基于番茄工作法的计时器。 ![](https://img.shields.io/github/stars/G07cha/pomodoro.svg?style=social&label=Star)
 - [VIR](https://github.com/TommyX12/VIR) - 具有自动计划功能的智能时间管理器。 ![](https://img.shields.io/github/stars/TommyX12/VIR.svg?style=social&label=Star)
 - [dida](https://github.com/xwartz/dida) - 添加任务到 TickTick (滴答清单). ![](https://img.shields.io/github/stars/xwartz/dida.svg?style=social&label=Star)
+- [Mechvibes X](https://github.com/FytikProdd/mechvibes-x) - 键盘打字音效模拟器，支持 3D 空间音效和音高/音量随机化。 ![](https://img.shields.io/github/stars/FytikProdd/mechvibes-x.svg?style=social&label=Star)
 
 ### 应用启动器
 
