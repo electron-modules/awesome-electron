@@ -374,6 +374,7 @@
 - [GroupMe](https://github.com/dcrousso/GroupMe) - 非官方的 GroupMe 应用。 ![](https://img.shields.io/github/stars/dcrousso/GroupMe.svg?style=social&label=Star)
 - [DTCP](https://github.com/alchen/DTCP) - 非官方的 Twitter 客户端。 ![](https://img.shields.io/github/stars/alchen/DTCP.svg?style=social&label=Star)
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) - 非官方的 Active Collab 应用。 ![](https://img.shields.io/github/stars/nurtext/active-collab-desktop.svg?style=social&label=Star)
+- [luogu-electron](https://github.com/A42Null/luogu-electron) - 非官方的洛谷桌面客户端。 ![](https://img.shields.io/github/stars/A42Null/luogu-electron.svg?label=Star)
 
 ## 相关链接
 
