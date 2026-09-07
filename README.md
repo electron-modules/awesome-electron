@@ -75,6 +75,7 @@
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - 基于 Vite 的 Electron 应用程序的安全样板。 TypeScript + Vue/React/Angular/Svelte/原生JS。 ![](https://img.shields.io/github/stars/cawa-93/vite-electron-builder.svg?style=social&label=Star)
 - [electron-egg](https://github.com/wallace5303/electron-egg) - 一个入门简单、快速高效、功能丰富的JS跨平台桌面软件开发框架。 ![](https://img.shields.io/github/stars/wallace5303/electron-egg.svg?style=social&label=Star)
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - Vue3 + Vite + electron 的项目模板。 ![](https://img.shields.io/github/stars/umbrella22/electron-vite-template.svg?style=social&label=Star)
+- [Hype Stack](https://github.com/BetterTyped/hype-stack) - 免费 MIT 全栈 SaaS monorepo（含 Electron 桌面应用，React 19、Hono、Vite、TanStack、Expo、浏览器扩展）。 ![](https://img.shields.io/github/stars/BetterTyped/hype-stack.svg?style=social&label=Star)
 
 ## 框架
 
