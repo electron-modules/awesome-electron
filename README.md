@@ -75,6 +75,7 @@
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - 基于 Vite 的 Electron 应用程序的安全样板。 TypeScript + Vue/React/Angular/Svelte/原生JS。 ![](https://img.shields.io/github/stars/cawa-93/vite-electron-builder.svg?style=social&label=Star)
 - [electron-egg](https://github.com/wallace5303/electron-egg) - 一个入门简单、快速高效、功能丰富的JS跨平台桌面软件开发框架。 ![](https://img.shields.io/github/stars/wallace5303/electron-egg.svg?style=social&label=Star)
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - Vue3 + Vite + electron 的项目模板。 ![](https://img.shields.io/github/stars/umbrella22/electron-vite-template.svg?style=social&label=Star)
+- [electron-appstack](https://github.com/nick-keller/electron-appstack) - 基于 electron-vite、React、TypeScript、tRPC 和 SQLite 的完整样板，内置自动更新和代码签名发布。 ![](https://img.shields.io/github/stars/nick-keller/electron-appstack.svg?style=social&label=Star)
 
 ## 框架
 
